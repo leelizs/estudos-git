@@ -6,3 +6,7 @@
 3. git commit -m "mensagens" - Confirmação dos arquivos que estavam na área de stage.
 
 4. git push - é que oque manda o arquivo pro stage. 
+
+5. git checkout - é para navegar nos commits antigos (para isso é necessario pegar os hash de cada commit )
+
+6. git log - para verificar todas as modificações feitas dentro do arquivo.
